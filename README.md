@@ -39,7 +39,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## Profile / Interview Summary (draft)
+## Profile Summary 
 
 > *“Hi, I’m Amber. I’m an early-career data engineer in training, currently completing IBM’s Data Engineering program and building Python projects focused on data pipelines and architecture. My background is in cross-functional production (creative industries, Microsoft, Google, PBS, just to name a few) and problem solving, and my strengths are systems thinking, clear communication, and improving messy processes. I’m looking for roles where I can help design and maintain data pipelines, support analytics teams, and grow toward data warehousing architecture and platform design.”*
 
