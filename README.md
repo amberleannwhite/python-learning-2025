@@ -23,7 +23,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 - 📜 **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 - 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
-- 
+  
 ---
 
 ## Badges & Credentials 🏅
