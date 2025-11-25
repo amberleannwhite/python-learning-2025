@@ -51,7 +51,7 @@ See the [`notebooks/`](./notebooks) folder for:
 
 ## Python Practice Notebooks
 
-- 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/trings_practice_clean.ipynb)
+- 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 
 - (More coming as I progress through the labs)
