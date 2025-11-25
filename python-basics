@@ -1,0 +1,10 @@
+ibm-data-engineering-labs/
+│
+├── python-basics/
+│   ├── strings_and_fstrings.ipynb
+│   └── functions_basics.ipynb
+│
+├── badges/
+│   └── data_engineering_essentials.md
+│
+├── README.md
