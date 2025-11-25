@@ -22,7 +22,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 - 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
-- 📝 **Lists & Tuples (fun) Practice** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
+- 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
 
 ---
 
@@ -61,6 +61,8 @@ See the [`notebooks/`](./notebooks) folder for:
 
 - 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
+- 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
+
 
 
 ***This repo will grow as I move through each module – it’s a live record of my learning progress and growth.
