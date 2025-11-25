@@ -1,4 +1,4 @@
-# Python Learning 2025
+# 🔥 Python Learning 2025 🐍
 
 Hands-on practice space for my transition into **Data Engineering** and **Data Warehouse Architect**.
 
@@ -6,7 +6,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## Current Focus
+## 🧝‍♀️➡️⚙️✨ Current Focus
 
 - IBM Data Engineering Professional Certificate (Coursera)
 - Python for Data Science, AI & Development
@@ -26,7 +26,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## Badges & Credentials
+## Badges & Credentials 🏅
 
 - 🎓 **IBM Data Engineering Essentials** (via Coursera, issued by IBM / Credly)  
   – Badge 1/16 of the full IBM Professional in Data Engineering certificate 
@@ -37,7 +37,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## Who I Am as a Learner
+## Who I Am as a Learner 🏆📚
 
 - I **learn fast and apply even faster** – I like to move from concept → code as quickly as possible.
 - I thrive in environments where **clarity, structure, and systems thinking** matter.
@@ -46,13 +46,13 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## Profile Summary 
+## Profile Summary 👩👑
 
 > *“Hi, I’m Amber. I’m an early-career data engineer in training, currently completing IBM’s Data Engineering program and building Python projects focused on data pipelines and architecture. My background is in cross-functional production (creative industries, Microsoft, Google, PBS, just to name a few) and problem solving, and my strengths are systems thinking, clear communication, and improving messy processes. I’m looking for roles where I can help design and maintain data pipelines, support analytics teams, and grow toward data warehousing architecture and platform design.”*
 
 ---
 
-## Notebooks & Practice Code
+## Notebooks & Practice Code 📓
 - (More coming as I progress through the labs)
 
 See the [`notebooks/`](./notebooks) folder for:
@@ -65,4 +65,4 @@ See the [`notebooks/`](./notebooks) folder for:
 
 
 
-***This repo will grow as I move through each module – it’s a live record of my learning progress and growth.
+***This repo will grow as I move through each module – it’s a live record of my learning progress and growth. 🌱
