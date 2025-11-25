@@ -20,10 +20,10 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ## Current Best Notebooks 📂 
 
-- 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
+- 📜 **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 - 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
-
+- 
 ---
 
 ## Badges & Credentials 🏅
@@ -59,10 +59,10 @@ See the [`notebooks/`](./notebooks) folder for:
 
 ## Python Practice Notebooks
 
-- 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
+- 📜 **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 - 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
-
+- 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
 
 
 ***This repo will grow as I move through each module – it’s a live record of my learning progress and growth. 🌱
