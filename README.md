@@ -18,11 +18,11 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## Current Best Notebooks 📂 
+## 🚀 Current Best Notebooks: 
 
-- 📜 **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
-- 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
-- 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
+- 1️⃣ **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
+- 2️⃣ **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
+- 3️⃣ **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
   
 ---
 
@@ -52,7 +52,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## Notebooks & Practice Code 📓
+## 📓 Notebooks & Practice Code 📓
 - (More coming as I progress through the labs)
 
 See the [`notebooks/`](./notebooks) folder for:
@@ -64,5 +64,14 @@ See the [`notebooks/`](./notebooks) folder for:
 - 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
 - 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
 
+---
 
-***This repo will grow as I move through each module – it’s a live record of my learning progress and growth. 🌱
+## 🗺️ Roadmap (Next Steps):
+
+- Module 2: 🎯 Dictionary + Tuples ✔️
+- Module 3: 🔢 Python Loops (🚧 next in progress!)
+- Module 4: 📊 DataFrames & Pandas
+- Portfolio Project 1: Automated Skills Summary
+
+
+***This repo will grow as I move through each module – it’s a live record of my learning progress and growth.🌱📈
