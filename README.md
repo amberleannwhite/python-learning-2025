@@ -18,15 +18,20 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
+## Current Best Notebooks 
+- 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
+- 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
+
+---
+
 ## Badges & Credentials
 
 - 🎓 **IBM Data Engineering Essentials** (via Coursera, issued by IBM / Credly)  
   – Badge 1/16 of the full IBM Professional in Data Engineering certificate 
-  – Covers data engineering roles, data pipelines, databases, data repositories, and big data basics.
+  – Covers data engineering roles, data pipelines, databases, data repositories, and big data basics. Est. Graduation date of early 2026 🚀
 
 ### IBM Data Engineering Essentials  
 [![View Badge on Credly](https://img.shields.io/badge/Credly-Data_Engineering_Essentials-6528F7?logo=ibm&logoColor=white)](https://www.credly.com/badges/6d57e912-004a-4da9-b21b-ec6fe6964839/public_url)
-
 
 ---
 
@@ -46,6 +51,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 ---
 
 ## Notebooks & Practice Code
+- (More coming as I progress through the labs)
 
 See the [`notebooks/`](./notebooks) folder for:
 
@@ -54,6 +60,5 @@ See the [`notebooks/`](./notebooks) folder for:
 - 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 
-- (More coming as I progress through the labs)
 
-This repo will grow as I move through each module – it’s a live record of my learning progress and growth.
+***This repo will grow as I move through each module – it’s a live record of my learning progress and growth.
