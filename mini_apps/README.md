@@ -2,5 +2,4 @@
 
 | App | Description | Try It |
 |-----|-------------|--------|
-| ⚡ Energy Level Decoder | A supportive mood check for daily wellbeing | 👉 [Open App](mini_apps/energy_level_decoder.html) |
-| ⚡ Energy Level Decoder | A supportive mood check for daily wellbeing | 👉 <a href="energy_level_decoder.html" target="_blank">🌟 Open App</a> |
+[![Try Energy Level Decoder](https://img.shields.io/badge/⚡_Energy_Decoder-Open_App-blue?style=for-the-badge)](mini_apps/energy_level_decoder.html)
