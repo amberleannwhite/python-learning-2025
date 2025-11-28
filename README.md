@@ -25,7 +25,8 @@ I’m using this repo to document my learning and build real, reusable code snip
 - 3️⃣ **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
 
  📲 | ✨🧙‍♂️ Wizard Personality Messages | What's your magical personality today? ⋆˙⟡ | 
-[![Try Wizard Personality Decoder](https://img.shields.io/badge/⚡_Wizard_Personality_Decoder-Open_App-blue?style=for-the-badge)](./Wizard%20Personality%20Decoder.html)
+[![Try Wizard Personality Messages]
+(https://img.shields.io/badge/⚡_Wizard_Personality_Decoder-Open_App-blue?style=for-the-badge)](./Wizard%20Personality%20Decoder.html)
 
 ---
 
