@@ -18,12 +18,15 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ---
 
-## 🚀 Current Best Notebooks: 
+## 🚀 Current Best Notebooks (Including *NEW* Mini App Launch!✨):
 
 - 1️⃣ **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
 - 2️⃣ **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 - 3️⃣ **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
-  
+
+  | 🔥 Energy Level Decoder | A supportive mood check for daily wellbeing | 
+[▶️ Open App](https://amberleannwhite.github.io/python-learning-2025/mini_apps/energy_level_decoder.html) |
+
 ---
 
 ## Badges & Credentials 🏅
