@@ -24,8 +24,8 @@ I’m using this repo to document my learning and build real, reusable code snip
 - 2️⃣ **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 - 3️⃣ **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
 
- 📲 | 🔥 Energy Level Decoder | A supportive mood check for daily wellbeing | 
-[▶️ Open App](https://amberleannwhite.github.io/python-learning-2025/mini_apps/energy_levels_decoder.html) |
+ 📲 | ✨🧙‍♂️ Wizard Personality Messages | What's your magical personality today? ⋆˙⟡ | 
+[![Try Wizard Personality Decoder](https://img.shields.io/badge/⚡_Wizard_Personality_Decoder-Open_App-blue?style=for-the-badge)](./Wizard%20Personality%20Decoder.html)
 
 ---
 
