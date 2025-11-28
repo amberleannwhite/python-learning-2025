@@ -64,8 +64,9 @@ See the [`notebooks/`](./notebooks) folder for:
 
 - 📜 **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
-- 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
 - 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
+- ✅ **Try & Exception Handling Practice** → [View Notebook](./notebooks/try_exception_handling_practice.ipynb)
+- 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
 
 ---
 
