@@ -14,18 +14,22 @@ I’m using this repo to document my learning and build real, reusable code snip
   - Python
   - Data pipelines and ETL
   - Databases and data warehousing
-  - Cloud & MLOps (later in the journey)
-
+  - Cloud & MLOps
+ 
 ---
 
 ## 🚀 Current Best Notebooks (Including *NEW* Mini App Launch!✨):
 
-- 1️⃣ **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
-- 2️⃣ **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
-- 3️⃣ **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
+- 1️⃣ **Mini ETL Pipeline Template** → [View Notebook](./notebooks/NumPy_Mini_ETL_Pipeline.ipynb)
+- 2️⃣ **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
+- 3️⃣ **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
+
+ 📲 | 🔋⚡🪫 Energy Levels Decoder |  Motvational messages for re-orienting your day ⋆˙⟡  |  
+[![Try Energy Level Decoder](https://img.shields.io/badge/⚡_Energy_Decoder-Open_App-blue?style=for-the-badge)](https://github.com/amberleannwhite/python-learning-2025/blob/main/mini_apps/energy_levels_decoder.html)
 
  📲 | ✨🧙‍♂️ Wizard Personality Messages |  What's your magical personality today? ⋆˙⟡  |  
 [![Try Wizard Personality Messages](https://img.shields.io/badge/⚡_Wizard_Personality_Mini_App-Open_App-blue?style=for-the-badge)](https://github.com/amberleannwhite/python-learning-2025/blob/main/mini_apps/Wizard%20Personality%20Decoder.html)
+
 
 ---
 
@@ -37,6 +41,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 
 ### IBM Data Engineering Essentials  
 [![View Badge on Credly](https://img.shields.io/badge/Credly-Data_Engineering_Essentials-6528F7?logo=ibm&logoColor=white)](https://www.credly.com/badges/6d57e912-004a-4da9-b21b-ec6fe6964839/public_url)
+
 
 ---
 
@@ -62,20 +67,20 @@ See the [`notebooks/`](./notebooks) folder for:
 
 ## Python Practice Notebooks
 
+- 📥 **Mini ETL Pipeline Template** → [View Notebook](./notebooks/NumPy_Mini_ETL_Pipeline.ipynb)
 - 📜 **JSON-ready Profile Object/Nested Projects & Timelines** → [View Notebook](./notebooks/amber_profile_dictionary.ipynb)
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
-- 🔤 **Strings & Variables Practice** → [View Notebook](./notebooks/strings_practice_clean.ipynb)
 - ✅ **Try & Exception Handling Practice** → [View Notebook](./notebooks/try_exception_handling_practice.ipynb)
-- 📝 **Skills Formatting with Lists** → [View Notebook](./notebooks/Lists%20and%20Tuples%20Practice.ipynb)
+  
 
 ---
 
 ## 🗺️ Roadmap (Next Steps):
 
 - Module 2: 🎯 Dictionary + Tuples ✔️
-- Module 3: 🔢 Python Loops (🚧 next in progress!)
-- Module 4: 📊 DataFrames & Pandas
-- Portfolio Project 1: Automated Skills Summary
+- Module 3: 🔢 Python Loops ✔️
+- Module 4: 📊 DataFrames & Pandas ✔️
+- Module 5: 🤳 APIs ((🚧 next in progress!))
 
 
 ***This repo will grow as I move through each module – it’s a live record of my learning progress and growth.🌱📈
