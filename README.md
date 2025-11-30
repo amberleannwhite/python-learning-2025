@@ -30,7 +30,7 @@ I’m using this repo to document my learning and build real, reusable code snip
  📲 | ✨🧙‍♂️ Wizard Personality Messages |  What's your magical personality today? ⋆˙⟡  |  
 [![Try Wizard Personality Messages](https://img.shields.io/badge/⚡_Wizard_Personality_Mini_App-Open_App-blue?style=for-the-badge)](https://github.com/amberleannwhite/python-learning-2025/blob/main/mini_apps/Wizard%20Personality%20Decoder.html)
 
- 📲 | Cat Facts Mini API App ⋆🐾⋆ |  How many cat facts can you save? ⋆˙⟡  |  
+ 📲 | ⋆🐾⋆ Cat Facts Mini API App ⋆🐾⋆ |  How many cat facts can you save? ⋆˙⟡  |  
 [![Try The Cat Facts Mini App! 🐱 ](https://img.shields.io/badge/⚡_Energy_Decoder-Open_App-blue?style=for-the-badge)](https://github.com/amberleannwhite/python-learning-2025/blob/main/mini_apps/cat_console_UI.ipynb) 
 
 
