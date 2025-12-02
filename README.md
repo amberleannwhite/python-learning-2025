@@ -45,6 +45,9 @@ I’m using this repo to document my learning and build real, reusable code snip
 ### IBM Data Engineering Essentials  
 [![View Badge on Credly](https://img.shields.io/badge/Credly-Data_Engineering_Essentials-6528F7?logo=ibm&logoColor=white)](https://www.credly.com/badges/6d57e912-004a-4da9-b21b-ec6fe6964839/public_url)
 
+### IBM - Python Data Engineering for Data Science, AI, and Development
+[![View Badge on Credly](https://www.credly.com/badges/2d44c0f1-5912-474d-b923-23ac8072850f) 
+
 
 ---
 
@@ -80,10 +83,14 @@ See the [`notebooks/`](./notebooks) folder for:
 
 ## 🗺️ Roadmap (Next Steps):
 
-- Module 2: 🎯 Dictionary + Tuples ✔️
-- Module 3: 🔢 Python Loops ✔️
+- Python Capstone Project + SQL / RDBMS Experiments ((🚧 in progress!))
+- Module 5: 🤳 APIs ✔️
 - Module 4: 📊 DataFrames & Pandas ✔️
-- Module 5: 🤳 APIs ((🚧 next in progress!))
+- Module 3: 🔢 Python Loops ✔️
+- Module 2: 🎯 Dictionary + Tuples ✔️
+- Module 1: 🐍 Python Basics ️️✔️
+
+️
 
 
 ***This repo will grow as I move through each module – it’s a live record of my learning progress and growth.🌱📈
