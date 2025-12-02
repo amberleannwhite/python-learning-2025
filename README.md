@@ -46,7 +46,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 [![View Badge on Credly](https://img.shields.io/badge/Credly-Data_Engineering_Essentials-6528F7?logo=ibm&logoColor=white)](https://www.credly.com/badges/6d57e912-004a-4da9-b21b-ec6fe6964839/public_url)
 
 ### IBM - Python Data Engineering for Data Science, AI, and Development
-[![View Badge on Credly](https://img.shields.io/badge/https://www.credly.com/org/ibm/badge/python-for-data-science-and-ai))](https://www.credly.com/badges/2d44c0f1-5912-474d-b923-23ac8072850f)  
+[![View Badge on Credly](https://img.shields.io/badge/credly.com/org/ibm/badge/python-for-data-science-and-ai)](https://www.credly.com/badges/2d44c0f1-5912-474d-b923-23ac8072850f)  
 
 
 ---
