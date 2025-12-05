@@ -9,11 +9,11 @@ I’m using this repo to document my learning and build real, reusable code snip
 ## 🧝‍♀️➡️⚙️✨ Current Focus
 
 - IBM Data Engineering Professional Certificate (Coursera)
-- Python for Data Science, AI & Development
+- Python for Data Science, AI & Development Certificate (IBM via Coursera)
 - Building strong foundations in:
-  - Python
-  - Data pipelines and ETL
-  - Databases and data warehousing
+  - Python ᯓ★ Full ETL Pipeline for Data Engineering ✔️ ᯓ★ → [View Notebook](./blob/main/banks_ETL.ipynb)
+  - Data pipelines and ETL (see above)
+  - Databases and Data Warehousing
   - Cloud & MLOps
  
 ---
@@ -77,12 +77,11 @@ See the [`notebooks/`](./notebooks) folder for:
 - 🧩 **Profile Statement Functions** → [View Notebook](./notebooks/profile_statements.ipynb)
 - ✅ **Try & Exception Handling Practice** → [View Notebook](./notebooks/try_exception_handling_practice.ipynb)
   
-
 ---
 
 ## 🗺️ Roadmap (Next Steps):
 
-- Python Capstone Project + SQL / RDBMS Experiments ((🚧 in progress!))
+- Python Project for Data Engineering ✔️ - → [View Notebook](./blob/main/banks_ETL.ipynb)
 - Module 5: 🤳 APIs ✔️
 - Module 4: 📊 DataFrames & Pandas ✔️
 - Module 3: 🔢 Python Loops ✔️
