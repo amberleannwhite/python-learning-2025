@@ -1,5 +1,7 @@
 ## 🔗 Mini Interactive Apps
 
+[![Try The Wizard Quotes Console - Interactive Edition 💙💜❤︎💜💙 ](https://codepen.io/Amber-LeAnn-White/full/jEqQmyd) 
+
 [![Try Energy Level Decoder](https://img.shields.io/badge/⚡_Energy_Decoder-Open_App-blue?style=for-the-badge)](./energy_levels_decoder.html)
 
 [![Try Wizard Personality Decoder](https://img.shields.io/badge/⚡_Wizard_Personality_Decoder-Open_App-blue?style=for-the-badge)](./Wizard%20Personality%20Decoder.html)
