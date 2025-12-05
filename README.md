@@ -11,7 +11,7 @@ I’m using this repo to document my learning and build real, reusable code snip
 - IBM Data Engineering Professional Certificate (Coursera)
 - Python for Data Science, AI & Development Certificate (IBM via Coursera)
 - Building strong foundations in:
-  - Python ᯓ★ Full ETL Pipeline for Data Engineering ✔️ ᯓ★ → [View Notebook](./blob/main/banks_ETL.ipynb)
+  - Python ᯓ★ Full ETL Pipeline for Data Engineering ✔️ ᯓ★ → [View Notebook]([./blob/main/banks_ETL.ipynb](https://github.com/amberleannwhite/python-learning-2025/blob/main/banks_ETL.ipynb)
   - Data pipelines and ETL (see above)
   - Databases and Data Warehousing
   - Cloud & MLOps
@@ -81,7 +81,7 @@ See the [`notebooks/`](./notebooks) folder for:
 
 ## 🗺️ Roadmap (Next Steps):
 
-- Python Project for Data Engineering ✔️ - → [View Notebook](./blob/main/banks_ETL.ipynb)
+- Python Project for Data Engineering ✔️ - → [View Notebook]([./blob/main/banks_ETL.ipynb](https://github.com/amberleannwhite/python-learning-2025/blob/main/banks_ETL.ipynb)
 - Module 5: 🤳 APIs ✔️
 - Module 4: 📊 DataFrames & Pandas ✔️
 - Module 3: 🔢 Python Loops ✔️
