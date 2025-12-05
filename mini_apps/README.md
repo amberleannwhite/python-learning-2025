@@ -1,6 +1,6 @@
 ## 🔗 Mini Interactive Apps
 
-[![Run App](https://img.shields.io/badge/Try_The-Wizard_Quotes-Console-purple?style=for-the-badge)]([https://codepen.io/YOURNAME/pen/ABCDEFG/full](https://codepen.io/Amber-LeAnn-White/full/jEqQmyd))
+[![Try the Wizard Quotes Console: Interactive Edition ❤︎](https://img.shields.io/badge/❤︎_Wizard_Quotes_Console-Open_App-purple?style=for-the-badge)](https://codepen.io/Amber-LeAnn-White/full/jEqQmyd)
 
 [![Try Energy Level Decoder](https://img.shields.io/badge/⚡_Energy_Decoder-Open_App-blue?style=for-the-badge)](./energy_levels_decoder.html)
 
